@@ -1,3 +1,34 @@
+# Nextjs Meals Share Project
+
+It was a practice project created under [Make Hub](https://makehub.com.bd) as a part of training. This full stack app covers the following:
+
+- Use of Prisma for CRUD operations
+- `useFormState` and `useFormStatus` both imported from 'react-dom'
+- Combine `useReducer` for creating the slideshow.
+- App router
+- server action
+- Form validation
+- Image previw on upload
+- TailwndCSS to build the frontend.
+- Proper use of `use server` and `use client`
+- NextJs reserved file name convensions for error hanlding, loading state
+- Granular loading using `React.Suspense`
+- Follow productive project structure.
+
+## Screnshots
+
+Home Page
+
+![Home Page](screenshots/1.png 'Home page')
+
+Meals Page
+
+![Meals Page](screenshots/2.png 'Meals page')
+
+Share a Meal
+
+![Share a meal Page](screenshots/3.png 'Share a meal page')
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
